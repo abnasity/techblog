@@ -1,0 +1,42 @@
+.home {
+    color: red;
+    font-weight: bolder;
+font-family: 'Times New Roman', Times, serif;
+
+font-style: oblique;
+
+
+}
+.about {
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+font-style: inherit;
+
+}
+
+
+
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+.nav-link {
+    text-decoration: none;
+    
+}
+
+#paragraph {
+    color: blue;
+    font-size: 2rem;
+}
+p{
+    color: red !important;
+    font-size: 1.5rem;
+}
+.par {
+    color: green;
+    font-size: 1.5rem;
+}
